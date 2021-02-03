@@ -8,4 +8,4 @@
 
 + <https://beyondgrep.com/documentation/>
 
-+ [Regex Cheat Sheet Mug](https://moderngeek.co/products/regex-cheat-sheet-mug?_pos=4&_sid=c36ae64eb&_ss=r)
++ [Regex Cheat Sheet Mug](https://www.moderngeekware.com/products/regex-cheat-sheet-mug)
